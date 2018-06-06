@@ -1,0 +1,51 @@
+body {
+  border: 0;
+  width: 450px;
+  padding: 5px;
+  height: 450px;
+  font-size: 12px;
+  margin: 10px auto;
+  align-items: center;
+  -moz-align-items: center;
+  -webkit-align-items: center;
+  font-family: arial, sans-serif;
+}
+
+table {
+  color: #333;
+  height: 100%;
+  margin: auto;
+  font-size: 12px;
+  border-spacing: 0 4px;
+  font-family: arial, sans-serif;
+}
+
+table tr td {
+  padding: 3px;
+  text-align: justify;
+  vertical-align: middle;
+}
+
+span {
+  vertical-align: middle;
+}
+
+textarea {
+  margin: 0;
+  color: #333;
+  padding: 5px;
+  width: 400px;
+  height: 400px;
+}
+
+.title {
+  width: 32px;
+}
+
+.note {
+  margin: 0;
+  color: #666;
+  font-size: 93%;
+  padding: 5px 10px;
+  background-color: rgba(0,0,0,0.1);
+}
